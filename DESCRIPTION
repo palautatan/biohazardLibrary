@@ -1,10 +1,10 @@
-Package: bhCU
-Title: biohazardCleanUp -- Bioinformatics tools
+Package: bcu
+Title: What the Package Does (one line, title case)
 Version: 0.0.0.9000
-Authors@R: person("Edie", "Espejo", email = "ehespejo@ucdavis.edu", role = c("aut", "cre"))
-Description: This package contains scripts helpful to a bioinformatician or computational biologist. It will help to "avoid biohazards", a.k.a. keep your directories properly formatted or to perform the correct conversions.
-Depends: R (>= 1.0)
-License: Free License
+Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
+Description: What the package does (one paragraph).
+Depends: R (>= 3.4.2)
+License: What license is it under?
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.0.1
