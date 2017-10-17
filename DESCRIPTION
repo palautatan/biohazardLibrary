@@ -1,9 +1,9 @@
-Package: biohazardCleanUp
-Title: Bioinformatics tools
+Package: bhCU
+Title: biohazardCleanUp -- Bioinformatics tools
 Version: 0.0.0.9000
-Authors@R: person(“Edie”, “Espejo”, email = “ehespejo@ucdavis.edu”, role = c("aut", "cre"))
-Description: This package contains scripts helpful to a bioinformatician or computational biologist. It will help to “avoid biohazards”, a.k.a. keep your directories properly formatted or to perform the correct conversions.
-Depends: R (>= 3.3.3)
+Authors@R: person("Edie", "Espejo", email = "ehespejo@ucdavis.edu", role = c("aut", "cre"))
+Description: This package contains scripts helpful to a bioinformatician or computational biologist. It will help to "avoid biohazards", a.k.a. keep your directories properly formatted or to perform the correct conversions.
+Depends: R (>= 1.0)
 License: Free License
 Encoding: UTF-8
 LazyData: true
